@@ -209,7 +209,7 @@ enableGitInfo = false
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    list_children = false
 
     # Post list format.
     #   0 = Simple
@@ -306,11 +306,6 @@ enableGitInfo = false
   name = "Blog"
   url = "#posts"
   weight = 4
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 5
 
 [[menu.main]]
   name = "Publications"

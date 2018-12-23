@@ -5,36 +5,31 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data Analytics",
+    "Machine Learning",
+    "Automated Decision-Making",
+    "Entrepreneurship"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MSc. Data Science"
+  institution = "University of British Columbia"
+  year = "2018-Present"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "B.A. Psychology & Philosophy"
+  institution = "University of Alberta"
+  year = 2014
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+
 +++
 
-# Biography
+# About
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Alex Hope is a former mental health researcher & teaching adjunct who is currently working on his masters degree in Data Science at the University of British Columbia (UBC). His current interests lie in understanding how complex statistics and machine learning algorithms can enhance decision-making and reveal insights across a range of areas in business and health.

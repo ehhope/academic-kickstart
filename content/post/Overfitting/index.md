@@ -29,7 +29,8 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-This post is on **Overfitting**, what it is and why it matters. <!--more-->
+This post is on Overfitting, what it is and why it matters. <!--more-->
+
 ## **Overfitting**
 
 What is overfitting exactly? Why does it matter?
@@ -38,7 +39,7 @@ The truth is the word has a few definitions, and depending on who you ask and th
 
 Wait though, wouldn't explaining data accurately and with confidence be a good thing?
 
-Well yes, accurately detailing trends in a dataset is considered a good thing but if that explanation isn't useful applying it to future datasets than it defeats the purpose of why we are even here. To predict the future! Just because a model perfectly explains the information in a given dataset does not mean it is a) a great model and b) suitable to explain other observations it has yet to encounter. One sign that your model may be overfitted to your data is when there is very low variance that it fails to account for. In fact, if a model has been trained to predict patterns of data in an original 'training dataset' too strongly, it will struggle with making close approximations about patterns in new datasets that vary in small or large ways that may or may not be interesting (natural variation vs error).
+Well yes, accurately detailing trends in a dataset is considered a good thing but if that explanation isn't useful when applying it to future datasets than it defeats the purpose of why we are even here. To predict the future! Just because a model perfectly explains the information in a given dataset does not mean it is a) a great model and b) suitable to explain other observations it has yet to encounter. One sign that your model may be overfitted to your data is when there is very low variance that it fails to account for. In fact, if a model has been trained to predict patterns of data in an original 'training dataset' too strongly, it will struggle with making close approximations about patterns in new datasets that vary in small or large ways that may or may not be interesting (natural variation vs error).
 
 Of course, we want to build a model that accurately accounts for both present and future observations, however, if the model is overfitted to the present data than it will struggle with predicting new information that do not fit cleanly into the distribution of the original dataset it was trained on. This is a common issue and there are many ways to combat this problem, however, that goes beyond the scope of this topic.
 

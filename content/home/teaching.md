@@ -16,7 +16,7 @@ weight = 10
 
 +++
 
-I was a teaching adjunct in the Department of Psychology at [City University of New York (CUNY)](https://www.hunter.cuny.edu/psychology). My efforts as a lecturer entailed:
+Served as a teaching adjunct in the Department of Psychology at [City University of New York (CUNY)](https://www.hunter.cuny.edu/psychology). Efforts as a lecturer entailed:
 
   * Developing and delivering weekly lectures with an original curriculum, drawing content from historical and contemporary perspectives and research on human motivation, emotion, clinical disorders, neurobiology, and consciousness.
   * Designing quizzes, exams, term papers and presentations and evaluating student performance.

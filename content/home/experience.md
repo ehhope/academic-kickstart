@@ -49,7 +49,8 @@ date_format = "January 2006"
   * Data collection, cleaning and analysis of bio (cardiac, MRI, EEG), subjective (self-report) and treatment data
   * Structured Clinical Interview Diagnostics (SCID) for Emotion Regulation Therapy (ERT) RCT
   * Development of ecological web and mobile assessment for BRIEF intervention of patients
-  """
+"""
+
 
 
 

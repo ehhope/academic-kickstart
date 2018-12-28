@@ -46,8 +46,12 @@ url_poster = ""
 
 ### Decision Tree Analysis of Makes & Misses in the NBA
 
-###### [A case study: Lebron James](https://github.com/ehhope/LBJ-for-Tree)
+###### A case study: Lebron James
 
-This project focuses on the 2014-2015 NBA season with a dataset containing characteristics of every shot (shot distance, defender, shot clock, etc.) taken by every player in the NBA. The approach used a decision tree classifier to predict whether a shot was made or missed based on shot features for each shot taken by the player. Lebron James season with the Cavaliers in 2014-15 was used as a case example, however, the script is flexible enough to wrangle, visualize with several plots, and analyze data for any player if specified as an argument.
+This [project](https://github.com/ehhope/LBJ-for-Tree) focuses on the 2014-2015 NBA season with a dataset containing characteristics of every shot (shot distance, defender, shot clock, etc.) taken by every player in the NBA. The approach used a decision tree classifier to predict whether a shot was made or missed based on shot features for each shot taken by the player. Lebron James season with the Cleveland Cavaliers was used as a case example, however, the script is flexible enough to wrangle, visualize with several plots, analyze and report data for any player if specified as an argument when using ```make```.
 
-This project uses ```make``` to run multiple scripts and contains a ```docker``` file for containerization as well. You can find the repository on my github account [here](https://github.com/ehhope/LBJ-for-Tree).
+Our decision tree classifier predicted Lebron James at a marginal ~65% when hyperparameters were optimized, however, other players we were able to score upwards of 85%. The reason for the model's poor accuracy with Lebron James, Steph Curry, and other top shooters is that the features don't segregate makes/misses as cleanly as players who are reliably poor shooters based on changes in particular features such as shot distance. An NBA center will struggle to shoot long range shots, therefore when shot distance increases, our classifier is quite accurate in predicting the outcome.
+
+This project is also reproducible through ```docker```. Inside the repository linked below, you will find a dockerfile with instructions for running all of the scripts with their respective dependencies (R and python libraries). If you don't have all of the dependencies installed locally that's ok, just use the dockerfile written to run the scripts in the container provided.
+
+For easily reproducing and generating data regarding NBA players, this project uses ```make``` to run multiple scripts in terminal as well. If interested, you can find the repository on my github account [here](https://github.com/ehhope/LBJ-for-Tree) with instructions in the README file for using these tools.

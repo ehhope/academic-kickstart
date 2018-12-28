@@ -7,11 +7,11 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching Experience"
+title = "Teaching"
 subtitle = "**2015-2018**"
 
 # Order that this section will appear in.
-weight = 9
+weight = 10
 
 
 +++
@@ -20,7 +20,7 @@ I was a teaching adjunct in the Department of Psychology at [City University of 
 
   * Developing and delivering weekly lectures with an original curriculum, drawing content from historical and contemporary perspectives and research on human motivation, emotion, clinical disorders, neurobiology, and consciousness.
   * Designing quizzes, exams, term papers and presentations and evaluating student performance.
-  * Mentoring and supervising students in both classroom and research
+  * Mentoring and supervising students in both classroom and research settings
 
 Here are the psychology courses I have taught within the department at CUNY:
 

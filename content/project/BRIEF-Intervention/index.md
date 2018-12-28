@@ -8,7 +8,7 @@ draft = false
 tags = ['intervention','ecological assessments','e-health']
 
 # Project summary to display on homepage.
-summary = "An ecological assessment tool I developed to track anxiety and depression symptoms introduce mindfulness-based techniques to patients enrolled in a BRIEF clinical study."
+summary = "An ecological assessment tool I developed to track anxiety & depression symptoms & introduce mindfulness-based techniques to patients enrolled in a BRIEF clinical study."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

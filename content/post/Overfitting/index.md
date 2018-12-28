@@ -29,7 +29,7 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
+A blog post on **Overfitting**. <!--more-->
 Blog Post- Alex Hope
 ## **Overfitting**
 

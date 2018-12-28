@@ -31,14 +31,14 @@ categories = []
 +++
 My experience and thoughts on block 1 of MDS at UBC. The courses were: DSCI 511, DSCI 521, DSCI 542, and DSCI 551. <!--more-->
 
-Hey! My name is Alex Hope, if you've made it this far I'll spare you the full introduction, however, this post is the first of an ongoing series I'll be doing as I progress through my Master's degree in Data Science (MDS) at the University of British Columbia (UBC). There's a bunch of reasons why I decided to do this, but a major one is to track my own growth as I transition into this field from healthcare research so I can look back on how far I've come and maybe recall concepts from the coursework of MDS in the process. I'm excited to dive into this new degree and learn more about the analytical and computational skills I knew were important but never had the time to cultivate while working. In addition, I wanted to use this blog as a resource for future students in MDS who may be unsure about what the degree entails like I was, and would like a perspective from someone who isn't part of the program but has gone through the degree. So, you'll hear my thoughts and advice about courses and instructors as well.
+Hey! My name is Alex Hope, if you've made it this far I'll spare you the full introduction, however, this post is the first of an ongoing series I'll be doing as I progress through my Master's degree in Data Science (MDS) at the University of British Columbia (UBC). There's a bunch of reasons why I decided to write this blog, but a major one was to track my own growth as I transition into this field from healthcare research so I can look back on how far I've come and recall concepts from the coursework of MDS in the process. I'm excited to dive into this new degree and learn more about the analytical and computational skills I knew were important but never had the time to cultivate while working. In addition, I wanted to use this blog as a resource for future students in MDS who may be unsure about what to expect with the experience of MDS like I was. This blog is a perspective from someone who isn't part of the program but is going through the degree. So, you'll hear my thoughts and advice about courses and instructors and I will do my best to convey my feelings about each class as honestly as I can. First a bit of background about what I did prior to getting here.
 
 The resources I used to prepare for this degree:
   * Work experience writing code to do basic analysis in Python and building basic sites with HTML/CSS
   * Jose Portilla's: Python for Data Science, and Python Programming Bootcamp
   * ProjectEuler.com
   * Probability and Statistics materials from a one day trial of a bootcamp called "Metis"
-  * DataCamp: 4 courses on python, and basic statistics
+  * DataCamp: 4 courses (python and basic statistics)
 
 #### **Block 1**
 

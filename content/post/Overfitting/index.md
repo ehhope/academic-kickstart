@@ -23,14 +23,13 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Examples of different model fits to the data"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-A blog post on **Overfitting**. <!--more-->
-Blog Post- Alex Hope
+This post is on **Overfitting**, what it is and why it matters. <!--more-->
 ## **Overfitting**
 
 What is overfitting exactly? Why does it matter?

@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Contact"
-subtitle = ""
+subtitle = "If you're seeking data science consulting services or have questions, leave me a message."
 
 # Order that this section will appear in.
 weight = 70
@@ -19,4 +19,3 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 +++
-

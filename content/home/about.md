@@ -10,10 +10,10 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Analysis Services",
-    "Machine Learning",
-    "Automated Decision-Making",
-    "Entrepreneurship"
+    "Analysis Consulting",
+    "Data collection strategies",
+    "Script Automation",
+    "Entrepreneurship",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,4 +32,4 @@ weight = 1
 
 # About
 
-Alex Hope received his B.A. in psychology & philosophy at the University of Alberta, Canada prior to pursuing a career in psychological research & teaching in New York. Seeing the value of statistical and machine learning approaches within imaging and treatment research for emotional disorders helped motivate his decision to pursue a Master's in Data Science at the University of British Columbia where he currently resides. Alex's interests revolve around data collection designs, pipeline development, statistical and machine learning implementations for problems across business and healthcare industries.
+Alex Hope received his B.A. in psychology & philosophy at the University of Alberta, Canada prior to pursuing a career in psychological research & teaching in New York. Seeing the value of statistical and machine learning approaches within imaging and treatment research for emotional disorders helped motivate his decision to pursue a Master's in Data Science at the University of British Columbia where he currently resides. Alex's interests revolve around data collection designs, pipeline development, complex statistics and machine learning implementations for problems across business and healthcare industries.

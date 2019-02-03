@@ -11,7 +11,7 @@ weight = 1
 [interests]
   interests = [
     "Analysis Consulting",
-    "Data collection strategies",
+    "Goal-oriented data collection strategies",
     "Script Automation",
     "Entrepreneurship",
   ]

@@ -8,7 +8,7 @@ authors = ["Alex Hope"]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Machine Learning","Regression","Shiny","Neural Networks","Optimization"]
+tags = ["Machine Learning","Regression","Shiny","Neural Networks","Optimization","MDS","UBC"]
 categories = []
 
 # Projects (optional).
@@ -34,11 +34,11 @@ My experience and thoughts on block 4 of MDS at UBC. The courses were: DSCI 532,
 ## MDS Block 4
 
 
-Another month another block, if you haven't read my past reviews you can find the previous summary of Block 3 [here](https://ehhope.github.io/post/mds-block-3/) Generally speaking, the coursework in this block was one of the major reasons I decided to apply to MDS in the first place.... machine learning, machine learning, machine learning. Three of our four courses were centered on ML with a fourth class that was part II of visualization. A **ton** and I mean a **ton** of material was covered in this block plain and simple, and I'm not here to regurgitate everything I've learned here, but let me offer some meta-thoughts on the structure of the program this block, and some opinions on the ML and Viz coursework.
+Another month another block, if you haven't read my past reviews you can find the previous summary of Block 3 [here](https://ehhope.github.io/post/mds-block-3/) or any of the others at the home page of this site. Generally speaking, the coursework in this block was one of the major reasons I decided to apply to MDS in the first place.... machine learning, machine learning, machine learning. Three of our four courses were centered on ML with a fourth class that was part II of visualization. A **ton** and I mean a **ton** of material was covered in this block plain and simple, and I'm not here to regurgitate everything I've learned. Let me offer some meta-thoughts on the structure of the program this block, and some opinions on the ML and Viz coursework.
 
 ***
 
-###Block 4 Overview
+### Overview
 
 This is considered the toughest block of coursework in MDS for a reason. The difficulty of the content and large amount of material you are asked to learn in each course for the month it is covered is asking alot of students. I spent many, many nights late at the library or in my room reading resources, watching videos, and deciphering code in addition to my lab work. The workload definitely translated to burnout I could see on the faces of many students, including myself at times. I wouldn't say these expressions are a bad thing though because it was also a very valuable month. On the one hand I learned a lot about ML, but more then that I realized how deep this field is, in what I learned content-wise and for my own perspective. Standing at the top of the block 4 mountain, I'm realizing two camps seem to have emerged that roughly summarize student sentiment about this block.
 
@@ -53,7 +53,8 @@ Data Science is a really hard field to grasp because it requires a breadth of to
 
 
 
-###Machine Learning Coursework
+### Machine Learning Coursework
+
 - *Unsupervised Learning (DSCI-563, Rodolfo Lourenzutti)*
 
 - *Supervised Learning II (DSCI-572, Mike Gelbart)*

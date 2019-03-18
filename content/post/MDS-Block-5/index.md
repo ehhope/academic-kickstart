@@ -30,7 +30,7 @@ categories = []
   focal_point = ""
 +++
 
-My experience and thoughts on block 5 of MDS at UBC. The courses were: Collaborative Software, Regression II, Time-Series/Spatial Analysis, & Bayes. <!--more-->
+My experience and thoughts on block 5 of MDS at UBC. The courses were: Collab Soft Dev, Regression II, Time/Spat Analysis, & Bayes. <!--more-->
 
 ## MDS Block 5
 

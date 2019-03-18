@@ -10,20 +10,20 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Analysis Consulting",
-    "Goal-oriented data collection strategies",
-    "Script Automation",
+    "Data collection strategies",
+    "Automating analytics",
     "Entrepreneurship",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "MSc. Data Science"
+  course = "Master of Data Science"
   institution = "University of British Columbia"
   year = "2018-Present"
 
 [[education.courses]]
-  course = "B.A. Psychology & Philosophy"
+  course = "Bachelor of Arts in Psychology & Philosophy"
   institution = "University of Alberta"
   year = 2014
 

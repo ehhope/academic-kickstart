@@ -8,7 +8,7 @@ authors = []
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = [Bayes, Time-Series, Spatial Analysis, Statistics, Software Development, Travis, MDS, Data Science]
+tags = ["Bayes", "Time-Series", "Spatial Analysis", "Statistics", "Software Development", "Travis", "MDS", "Data Science"]
 categories = []
 
 # Projects (optional).
